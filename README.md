@@ -1,0 +1,2 @@
+# CoreDemo-Proje
+CoreDemo Proje
